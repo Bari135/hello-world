@@ -4,5 +4,6 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 
 This repository is built step by step in the tutorial.
 
-change from github 
-change from git2 - trying to pull
+change from skeleton branch - github
+
+change from readme branch (local)
